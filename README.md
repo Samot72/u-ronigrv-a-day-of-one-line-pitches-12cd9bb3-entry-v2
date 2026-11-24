@@ -1,8 +1,8 @@
 # A Day of One-Line Pitches — Entry
 
 [![Competition](https://make.fun/badge/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3.svg)](https://make.fun/c/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3)
-[![Rank](https://make.fun/badge/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3/Samot72/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3-entry/rank.svg)](https://make.fun/c/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3)
-[![Reward](https://make.fun/badge/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3/Samot72/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3-entry/reward.svg)](https://make.fun/c/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3)
+[![Rank](https://make.fun/badge/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3/Samot72/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3-entry-v2/rank.svg)](https://make.fun/c/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3)
+[![Reward](https://make.fun/badge/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3/Samot72/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3-entry-v2/reward.svg)](https://make.fun/c/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3)
 
 Entry for [A Day of One-Line Pitches](https://make.fun/c/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3)
 (free, $5 over the top three, deadline 2026-11-25 00:20 WIB).
